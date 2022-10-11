@@ -1,1 +1,1 @@
-Write a shell script
+Save current state of directory
