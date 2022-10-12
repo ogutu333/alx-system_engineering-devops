@@ -1,1 +1,1 @@
-The path to success is to take massive, determined action
+Create a script that counts the number of directories in the PATH
